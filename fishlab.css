@@ -1,4 +1,4 @@
-  html[data-theme='Fishlab'] {
+html[data-theme='Fishlab'] {
 --pink: #ff2a6d;
 --green: #10ba29;
 --pale:	#d1f7ff;
@@ -10,6 +10,7 @@
 --bgblue: #1c2645;
 --homerpurp: #181c3a;
 --homerpurptext: #7c71dd;
+--bgblack: #05070e;
 
 --primary: var(--homerpurptext);
 --background: var(--homerpurp);
