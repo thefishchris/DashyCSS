@@ -12,7 +12,7 @@ html[data-theme='Fishlab'] {
 --homerpurptext: #7c71dd;
 --bgblack: #05070e;
 
---primary: var(--homerpurptext);
+--primary: var(--bgblack);
 --background: var(--homerpurp);
 --background-darker: var(--homerpurp);
 --item-group-outer-background: var(--homerpurp);
