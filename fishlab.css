@@ -1,0 +1,41 @@
+  html[data-theme='Fishlab'] {
+--pink: #ff2a6d;
+--green: #10ba29;
+--pale:	#d1f7ff;
+--aqua:	#05d9e8;
+--teal:	#005678;
+--blue:	#01012b;
+--gold:	#ebeb0f;
+--grey: #d9d9d9;
+--bgblue: #1c2645;
+--homerpurp: #181c3a;
+--homerpurptext: #7c71dd;
+
+--primary: var(--homerpurptext);
+--background: var(--homerpurp);
+--background-darker: var(--homerpurp);
+--item-group-outer-background: var(--homerpurp);
+--heading-text-color: var(--homerpurptext);
+--nav-link-background-color: var(--blue);
+--nav-link-background-color-hover: var(--blue);
+--nav-link-text-color: var(--grey);
+--nav-link-text-color-hover: var(--homerpurptext);
+--nav-link-border-color-hover: var(--blue);
+--config-settings-background: var(--homerpurp);
+--config-settings-color: var(--homerpurptext);
+--interactive-editor-background: var(--blue);
+--interactive-editor-background-darker: var(--blue);
+--interactive-editor-color: var(--pink);
+--search-label-color: var(--blue);
+--item-group-background: var(--blue);
+--item-group-heading-text-color: var(--grey); 
+--item-text-color: var(--grey);
+--scroll-bar-color: var(--aqua);
+--scroll-bar-background: var(--teal);
+--footer-background: var(--aqua);
+--welcome-popup-background: var(--pink);
+--welcome-popup-text-color: var(--blue);
+--status-check-tooltip-background: var(--blue);
+--description-tooltip-background: var(--blue);
+--font-headings: 'Audiowide', cursive;
+}
